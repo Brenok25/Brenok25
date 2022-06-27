@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=brenok25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenok25&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenok25&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -12,7 +12,7 @@
   <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Breno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Breno-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/xuXzcHMkuwvf2/giphy.gif?cid=ecf05e471wiz8e6czoub8ggrob02palzk61cxuoxl0us757g&rid=giphy.gif&ct=g">
+<!--   <img align="right" alt="Breno-pic" height="200" width="200" style="border-radius:50px;" src="https://tenor.com/bwlfX.gif"> -->
 </div>
 
 ##
