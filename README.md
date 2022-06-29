@@ -11,6 +11,8 @@ Atualmente curso tecnico em desenvolvimento de sistemas pelo Senac </p>
   <img height="180em" width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenok25&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+  <img align="right" src="#" width:50px height:130px alt="https://picasion.com/"/>
+  
 ## 🛠 Minhas melhores linguagens
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
