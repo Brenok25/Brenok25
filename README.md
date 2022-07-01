@@ -10,8 +10,6 @@ Atualmente curso tecnico em desenvolvimento de sistemas pelo Senac </p>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=brenok25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenok25&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-  <img align="right" src="#" width:50px height:130px alt="https://picasion.com/"/>
   
 ## 🛠 Minhas melhores linguagens
 <div style="display: inline_block"><br>
